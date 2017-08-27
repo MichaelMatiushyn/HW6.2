@@ -40,6 +40,10 @@ td, th {
 	border: none;
 }
 
+.tab1, .tab2, .tab3, .tab4 {
+	border-spacing: 0;
+}
+
 .tab2 td, .tab3 td {
 	width:250px;
 	height: 50px;
