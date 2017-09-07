@@ -21,6 +21,14 @@ h1, h2 {
 	background-color:#FCFCFC;
 }
 
+.ns th {
+	font-weight: normal;
+}
+
+.ns th:last-child {
+	font-weight: bold;
+}
+
 table {
 	border: 1px solid;
 	text-align: center;
